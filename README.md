@@ -1,4 +1,4 @@
-# Maze-Creation
+# Maze-Creation, Python
 Create NxN Mazes using Python 
 
 This is a Side-Project I came across while working on an Assignment for the Artificial Intelligence Class I took at ECE, NTUA in 2021.
